@@ -1,4 +1,4 @@
-## Baic desktop assistant
+## Basic desktop assistant
 This is a simple desktop assitant using python.
 Basically it has three parts
 1. Take audio input from user and convert it into string.
